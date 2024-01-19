@@ -1,3 +1,35 @@
+
 body {
     background-color: #262624;
+}
+
+nav {
+    display: block;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
+
+nav a {
+    text-decoration: none;
+    color: #BFA98E;
+    padding: 20px;
+    border: 1px solid #D9D0C7;
+    border-radius: 10%;
+    margin: 40px;
+    font-size: 30px;
+}
+
+h1 {
+    color: #D9D0C7;
+    text-align: center;
+    font-family: "Antic Didone", serif;
+    font-weight: 100px;
+    text-transform: uppercase;
+}
+
+p {
+    color: #A78876;
+    text-align: center;
+    font-family: "Homemade Apple", cursive;
 }
