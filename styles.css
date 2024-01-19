@@ -18,6 +18,7 @@ nav a {
     border-radius: 10%;
     margin: 40px;
     font-size: 30px;
+    font-family: "Antic Didone", serif;
 }
 
 h1 {
@@ -27,7 +28,7 @@ h1 {
     font-size: 100px;
     font-weight: 100px;
     text-transform: uppercase;
-    margin-top: 200px;
+    margin-top: 220px;
 }
 
 p {
@@ -35,4 +36,5 @@ p {
     text-align: center;
     font-family: "Homemade Apple", cursive;
     font-size: 24px;
+    word-spacing: 2px;
 }
