@@ -24,12 +24,15 @@ h1 {
     color: #D9D0C7;
     text-align: center;
     font-family: "Antic Didone", serif;
+    font-size: 100px;
     font-weight: 100px;
     text-transform: uppercase;
+    margin-top: 200px;
 }
 
 p {
     color: #A78876;
     text-align: center;
     font-family: "Homemade Apple", cursive;
+    font-size: 24px;
 }
