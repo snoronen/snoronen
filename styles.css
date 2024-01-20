@@ -12,6 +12,7 @@ header {
     height: 80px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 body {
@@ -37,9 +38,15 @@ nav a {
     font-family: "Antic Didone", serif;
 }
 
+.nav-bar ul {
+    display: flex;
+}
+
 .nav-bar ul li a:hover {
     color: #A78876;
+    border-color: #A78876;
 }
+
 
 h1 {
     color: #D9D0C7;
